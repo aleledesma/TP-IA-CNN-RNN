@@ -1,0 +1,10 @@
+.venv
+data
+reports
+TP REDES NEURONALES.pdf
+
+__pycache__/
+*.pyc
+
+models/cnn/lc_*.keras
+models/cnn/leakage_*.keras
